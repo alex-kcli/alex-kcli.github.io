@@ -3,22 +3,28 @@
   contents:
     - name: Name
       value: Kangcheng Li
+    - name: Email
+      value: alex-kcli99@gmail.com
+    - name: LinkedIn
+      value: linkedin.com/in/kangcheng-li-a98045207
+    - name: Github
+      value: github.com/alex-kcli
 
 - title: Education
   type: time_table
   contents:
     - title: Computer Science, M.S.
-      institution: Northwestern University, IL
+      institution: Northwestern University, Evanston, IL
       year: 2022
       description:
         - Expected 12/2022, Available for full time work starting 7/2022, GPA 3.95
     - title: Linguistics and Computer Science, B.A.
-      institution: University of California, Los Angeles
+      institution: University of California, Los Angeles, CA
       year: 2021
       description:
         - GPA 3.85, Cum Laude
     - title: Linguistics, B.A.
-      institution: University of California, Santa Barbara
+      institution: University of California, Santa Barbara, CA
       year: 2019
       description:
         - Linguistics with Speech Technology Emphasis
