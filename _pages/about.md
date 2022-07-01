@@ -6,7 +6,7 @@ subtitle: Graduate Student at Northwestern University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Professional_Photo.jpeg
   image_cicular: false # crops the image to make it circular
   address: >
     <p>Evanston, IL 60201</p>
