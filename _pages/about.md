@@ -11,8 +11,8 @@ profile:
   address: >
     <p>Evanston, IL 60201</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 Kangcheng is a graduate student at Northwestern University with major in Computer Science. Before that, he graduated from UCLA with a bachelor degree in Linguistics and Computer Science. He loves doing projects with a Wow factor, taking time to understand design concepts, and talking about code. He is most interested in the development of applications that bring values to people's lives.
