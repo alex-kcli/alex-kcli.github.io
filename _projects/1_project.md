@@ -7,7 +7,8 @@ importance: 1
 category: work
 ---
 
-Link: photo-app-demo-kcli.herokuapp.com
+Link: <a href="https://photo-app-demo-kcli.herokuapp.com/">photo-app-demo-kcli.herokuapp.com</a>
+
 Log in with default Username: webdev, Password: password
 
 This is a web based photo app on which users can like, bookmark, and add comments to posts, as well as follow and unfollow users. Users can view posts from themselves and from people they follow. Vice versa, their followers can also view photos that they post. 
