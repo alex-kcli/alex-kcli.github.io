@@ -2,7 +2,7 @@
 layout: page
 title: Photo App
 description: a full stack web app for photo sharing social network
-img: assets/img/12.jpg
+img:
 importance: 1
 category: work
 ---
