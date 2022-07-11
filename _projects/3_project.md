@@ -24,7 +24,7 @@ Game 1: Kontagion, a game featuring petri dish and bacterial adversaries.
 </div>
 
 Game 2: Breakout, a clone of the famous breakout game with paddle and ball bouncing into bricks.
-<a href="https://alexkcli.itch.io/breakout-copy">https://alexkcli.itch.io/breakout-copy</a>
+Link: <a href="https://alexkcli.itch.io/breakout-copy">alexkcli.itch.io/breakout-copy</a>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -39,6 +39,7 @@ Game 2: Breakout, a clone of the famous breakout game with paddle and ball bounc
 </div>
 
 Game 3: Flappy Bird, a clone of the popular flappy bird game where player controls a bird to fly through pipes.
+Link: <a href="https://alexkcli.itch.io/flappy-bird-copy">alexkcli.itch.io/flappy-bird-copy</a>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -52,7 +53,7 @@ Game 3: Flappy Bird, a clone of the popular flappy bird game where player contro
     </div>
 </div>
 
-
+<!--
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
@@ -64,3 +65,4 @@ Game 3: Flappy Bird, a clone of the popular flappy bird game where player contro
 <div class="caption">
     This image can also have a caption. It's like magic.
 </div>
+-->
