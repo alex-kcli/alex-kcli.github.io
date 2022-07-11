@@ -24,6 +24,7 @@ Game 1: Kontagion, a game featuring petri dish and bacterial adversaries.
 </div>
 
 Game 2: Breakout, a clone of the famous breakout game with paddle and ball bouncing into bricks.
+<a href="https://alexkcli.itch.io/breakout-copy">https://alexkcli.itch.io/breakout-copy</a>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
