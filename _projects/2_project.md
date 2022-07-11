@@ -2,7 +2,7 @@
 layout: page
 title: Computer Graphics
 description: a collection of projects for computer graphics
-img: assets/img/2.jpg
+img: 
 importance: 1
 category: work
 ---
