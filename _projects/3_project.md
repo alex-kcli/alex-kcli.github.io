@@ -2,7 +2,7 @@
 layout: page
 title: Games
 description: a collection of 2D games made with C++ or Unity
-img: assets/img/3.jpg
+img: 
 importance: 1
 category: work
 ---
