@@ -6,9 +6,9 @@
     - name: Email
       value: alex-kcli99@gmail.com
     - name: LinkedIn
-      value: <a href="linkedin.com/in/kangcheng-li-a98045207">linkedin.com/in/kangcheng-li-a98045207</a>
+      value: <a href="https://www.linkedin.com/in/kangcheng-li-a98045207">linkedin.com/in/kangcheng-li-a98045207</a>
     - name: Github
-      value: <a href="github.com/alex-kcli">github.com/alex-kcli</a>
+      value: <a href="https://github.com/alex-kcli">github.com/alex-kcli</a>
 
 - title: Education
   type: time_table
