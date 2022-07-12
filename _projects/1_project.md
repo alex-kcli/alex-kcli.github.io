@@ -13,9 +13,14 @@ Log in with default Username: webdev, Password: password
 
 This is a web based photo app on which users can like, bookmark, and add comments to posts, as well as follow and unfollow users. Users can view posts from themselves and from people they follow. Vice versa, their followers can also view photos that they post. 
 
+· Developed using HTML, CSS, Javascript.<br>
+· Designed and built REST API endpoints with Python’s SQLAlchemy & Flask RESTful library to handle GET, PUT, DELETE, PATCH, etc. commands and updates the database accordingly.<br>
+· Maintained a PostgresSQL database for posts, user, followers, likes data according to the message received at API endpoints.
+· Built authentication methods supporting username / password, and valid JSON web tokens after logging in for the first time.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/photo_app_main.png" title="main page" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/photo_app_auth.png" title="authentication page" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -24,7 +29,7 @@ This is a web based photo app on which users can like, bookmark, and add comment
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/photo_app_auth.png" title="authentication page" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/photo_app_main.png" title="main page" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
