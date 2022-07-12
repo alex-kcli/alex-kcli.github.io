@@ -9,7 +9,7 @@ category: work
 
 This is a collection of simple 2D games I have done to explore common game concepts.
 
-Game 1: Kontagion, a game featuring petri dish and bacterial adversaries.
+Game 1: Kontagion, a game featuring a player playing in a petri dish against bacterial adversaries. Player can move around the dish on the rim with left/right arrowkeys and shoot with SPACE or ENTER for different weapons.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -23,7 +23,7 @@ Game 1: Kontagion, a game featuring petri dish and bacterial adversaries.
     </div>
 </div>
 
-Game 2: Breakout, a clone of the famous breakout game with paddle and ball bouncing into bricks.
+Game 2: Breakout, a clone of the famous breakout game with paddle and ball bouncing into bricks.<br>
 Link: <a href="https://alexkcli.itch.io/breakout-copy">alexkcli.itch.io/breakout-copy</a>
 
 <div class="row">
@@ -38,7 +38,7 @@ Link: <a href="https://alexkcli.itch.io/breakout-copy">alexkcli.itch.io/breakout
     </div>
 </div>
 
-Game 3: Flappy Bird, a clone of the popular flappy bird game where player controls a bird to fly through pipes.
+Game 3: Flappy Bird, a clone of the popular flappy bird game where player controls a bird to fly through pipes.<br>
 Link: <a href="https://alexkcli.itch.io/flappy-bird-copy">alexkcli.itch.io/flappy-bird-copy</a>
 
 <div class="row">
@@ -52,17 +52,3 @@ Link: <a href="https://alexkcli.itch.io/flappy-bird-copy">alexkcli.itch.io/flapp
         {% include figure.html path="assets/img/flappy_over.png" title="flappy over image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-<!--
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
--->
