@@ -9,11 +9,12 @@ category: work
 
 This is a streaming web application I developed with React and AWS's interactive video service. Users can post in live chat after authentication by signing up and logging in. Unauthenticated user can view the live chat content if other authenticated user post in the chat. 
 
+<a href="https://master.d2721d8wf391vy.amplifyapp.com/">deployment page</a>
 Log in with username: webdev, password: password
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/newsverse_main.png" title="main page" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
