@@ -9,7 +9,7 @@ category: work
 
 This is a streaming web application I developed with React and AWS's interactive video service. Users can post in live chat after authentication by signing up and logging in. Unauthenticated user can view the live chat content if other authenticated user post in the chat. 
 
-<a href="https://master.d2721d8wf391vy.amplifyapp.com/">deployment page</a>
+Link: <a href="https://master.d2721d8wf391vy.amplifyapp.com/">deployment page</a><br>
 Log in with username: webdev, password: password
 
 <div class="row">
@@ -19,5 +19,5 @@ Log in with username: webdev, password: password
 </div>
 
 <div class="caption">
-    A collection of objects with with different lighting and shading methods applied
+    The main page with streaming video in the middle and live chat on the right
 </div>
